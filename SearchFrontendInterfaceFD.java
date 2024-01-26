@@ -1,11 +1,3 @@
-
-// --== CS400 Spring 2023 File Header Information ==--
-// Name: Elizaveta Familiant
-// Email: efamiliant@wisc.edu
-// Team: BF
-// TA: Naman Gupta
-// Lecturer: Gary Dahl
-// Notes to Grader: Used the code given to us by the Staff in P1.
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
