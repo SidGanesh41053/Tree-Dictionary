@@ -8,7 +8,7 @@ Data Management: Add or remove words, demonstrating the dynamic nature of the re
 Data Import: Load words and definitions from external CSV files.
 
 ## Future Scope
-Enhancements: Adding multi-word searches, storing multiple definitions, and including synonyms.
+Enhancements: Adding multi-word searches, storing multiple definitions, and including synonyms.<br>
 Simplifications: Potential removal of the autocomplete feature for streamlined functionality.
 
 ## External Libraries and Tools
